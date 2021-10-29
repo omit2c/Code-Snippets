@@ -9,6 +9,8 @@ If you have a code snippet that you want to share with the community fork this r
 
 Under Contribute/code_snippet_template.md you will find a template for a new code snippet. There you can paste in your code and give some information about it. You can customize your snippet, but please maintain the basic information.
 
+Please create a new branch an call it something like that: “add-snippet-yourGitUsername”. If you create a pull request please set the user [omit2c](https://github.com/omit2c) as the reviewer for your pull request. Please also check if your code snippet isn‘t a duplicate of an existing one.
+
 ### Where to save the snippet?
 
 In this repository the code snippets will be categorized by programming language. E.g. a code snippet in Swift will be placed in the swift folder.
