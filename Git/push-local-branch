@@ -1,15 +1,14 @@
-
-# Delete branch
+# Push local branch to remote
 
 ## Code
 
 ```bash
-git fetch --prune
+git push --set-upstream origin branch
 ```
 
 ## Description
 
-Delete a unused branch from the remote repository.
+Push local branch to the remote repository.
 
 
 #### Version
